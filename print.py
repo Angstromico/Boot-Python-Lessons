@@ -1,1 +1,1 @@
-Greetings, adventurer!
+print('Greetings, adventurer!')
